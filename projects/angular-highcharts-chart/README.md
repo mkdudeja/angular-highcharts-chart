@@ -348,36 +348,3 @@ Highcharts.setOptions({
 export class AppComponent {
   Highcharts = Highcharts;
 ``` 
-
-
-
-## Demo app
-
-Download the content of this github repository.
-
-In system console, in main repo folder run:
-
-```
-npm install
-npm run build:chart
-npm start
-```
-
-This opens [http://localhost:4200/](http://localhost:4200/) in your default browser with the app.
-
-To open on a different port, for example `12345`, use:
-
-```
-npm start -- --port 12345
-```
-
-### Play with the app
-
-Keep the console running and change some files - after a save the app will rebuild and refresh the localhost preview.
-
-### Files to play with
-
-* **app.component.ts** (in `src\app`)
-
-Contains Angular main component, Contains the chart component that creates Highcharts chart.
-

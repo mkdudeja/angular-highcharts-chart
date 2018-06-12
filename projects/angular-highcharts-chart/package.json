@@ -1,9 +1,26 @@
 {
   "name": "angular-highcharts-chart",
-  "version": "0.0.2",
+  "version": "1.0.0",
+  "description": "Minimal Highcharts wrapper for Angular (AOT Build and Angular 6 Compatible)",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
     "highcharts": "^6.0.0 || ^6.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdudeja/angular-highcharts-chart.git"
+  },
+  "keywords": [
+    "Angular",
+    "Angular 6",
+    "Angular AOT",
+    "Highcharts"
+  ],
+  "author": "mkdudeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdudeja/angular-highcharts-chart/issues"
+  },
+  "homepage": "https://github.com/mkdudeja/angular-highcharts-chart#readme"
 }
