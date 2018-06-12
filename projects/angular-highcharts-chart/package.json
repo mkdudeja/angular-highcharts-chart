@@ -1,6 +1,6 @@
 {
   "name": "angular-highcharts-chart",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Minimal Highcharts wrapper for Angular (AOT Build and Angular 6 Compatible)",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",

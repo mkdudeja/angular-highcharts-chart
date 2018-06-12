@@ -3,7 +3,7 @@ Minimal Highcharts wrapper for Angular (AOT Build and Angular 6 Compatible).
 
 *Credits:* Thanks to [highcharts](https://github.com/highcharts) for their original angular wrapper named [highcharts-angular](https://github.com/highcharts/highcharts-angular). 
 
-Almost all of the documentation ported form the original repo as underlying opitons & usage guide remains the same.
+Almost all of the documentation ported form the original repo as underlying opitons & usage guide remains the same, **excpet that this package exports module instead of component**. So, go through the usage guide once after installing the package.
 
 ## Table of Contents
 1. [Getting started](#getting-started)
